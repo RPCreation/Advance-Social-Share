@@ -1,0 +1,18 @@
+/* Custom CSS for social share buttons */
+.social-share-buttons {
+    text-align: center;
+}
+
+.social-share-buttons p {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Your Unique Font", Arial, sans-serif;
+    margin-bottom: 10px;
+}
+
+.social-share-buttons a i {
+    font-size: 36px; /* Increase or decrease the size as needed */
+    margin: 0 15px; /* Add margin between icons if desired */
+}
+
+/* Add your additional custom CSS styles here */
