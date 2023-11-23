@@ -1,6 +1,6 @@
 === Advance Social Share ===
-Contributors: rpcreation
-Donate link: https://www.example.com/donate/
+Contributors: RPCreation
+Donate link: https://www.rpcreation.com/donate/
 Tags: social share, sharing, social media, Facebook, Twitter, WhatsApp, Telegram, Instagram
 Requires at least: 4.0
 Tested up to: 5.8
